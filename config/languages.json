@@ -1,0 +1,36 @@
+{
+  "fr": {
+    "title": "Smart File Organizer Pro",
+    "watch_folder": "Dossier surveillé",
+    "browse": "Parcourir",
+    "start": "▶️ Démarrer",
+    "stop": "⏹️ Arrêter",
+    "clean": "🧹 Trier l'existant",
+    "undo": "↩️ Annuler dernier tri",
+    "dashboard": "📊 Tableau de bord",
+    "rules": "⚙️ Règles personnalisées",
+    "exclusions": "🚫 Exclusions",
+    "settings": "⚙️ Paramètres",
+    "log": "📜 Journal",
+    "status_idle": "🟡 En attente...",
+    "status_watching": "🟢 Surveillance active...",
+    "status_stopped": "🔴 Arrêté"
+  },
+  "en": {
+    "title": "Smart File Organizer Pro",
+    "watch_folder": "Watched folder",
+    "browse": "Browse",
+    "start": "▶️ Start",
+    "stop": "⏹️ Stop",
+    "clean": "🧹 Clean existing",
+    "undo": "↩️ Undo last move",
+    "dashboard": "📊 Dashboard",
+    "rules": "⚙️ Custom Rules",
+    "exclusions": "🚫 Exclusions",
+    "settings": "⚙️ Settings",
+    "log": "📜 Log",
+    "status_idle": "🟡 Idle...",
+    "status_watching": "🟢 Watching...",
+    "status_stopped": "🔴 Stopped"
+  }
+}
